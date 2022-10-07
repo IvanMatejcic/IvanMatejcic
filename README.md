@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 My name is Ivan.  
-I am a 22 year old student currently studying IT at the University of Rijeka! 🏫  
+I am a 22 year old student currently studying computer science at the University of Rijeka! 🏫  
 
 👀 [Check out](https://ivanmatejcic.netlify.app/) my portfolio & CV!
 
