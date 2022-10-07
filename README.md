@@ -6,7 +6,7 @@ My name is Ivan.
 I am a 22 year old student currently studying IT at the University of Rijeka! 🏫  
 
 #### ⚡ Fun fact:  
-In my free time I strive to expand my IT knoowledge, enjoy going to the gym, watching and debating all things Formula 1 and hanging out with friends!
+In my free time I strive to expand my IT knowledge, enjoy going to the gym, watching and debating all things Formula 1 and hanging out with friends!
 
 ---
 
