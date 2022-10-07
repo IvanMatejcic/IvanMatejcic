@@ -3,6 +3,12 @@
 My name is Ivan.  
 I am a 22 year old student currently studying IT at the University of Rijeka! 🏫  
 
+👀 [Check out](https://ivanmatejcic.netlify.app/) my portfolio & CV!
+
+<a href="https://www.linkedin.com/in/ivan-matej%C4%8Di%C4%87-066b1175/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ivan Matejčić | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/ivanmatejcic_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ivan Matejčić | Instagram" width="21px"/></a>
+<br>
+
 ---
 
 ## IT Knowlegde and interests 💻
@@ -28,13 +34,4 @@ I prefer programming in Python and the frontend as well as designing and styling
 - [ ] R,  
 - [ ] Tailwind CSS,  
 - [ ] Swift,  
-- [ ] Flutter.
-
----
-
-## 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/ivanmatejcic_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ivan Matejčić | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/ivanmatejcic_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ivan Matejčić | Instagram" width="21px"/></a>  
-
-👀 Also, [check out](https://ivanmatejcic.netlify.app/) my portfolio & CV!
+- [ ] Flutter.  
