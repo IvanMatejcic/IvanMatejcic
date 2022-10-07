@@ -1,12 +1,7 @@
-# Hello! 👋
+# Hello there! 👋
 
-Welcome to my GitHub profile!
-
-My name is Ivan.
+My name is Ivan.  
 I am a 22 year old student currently studying IT at the University of Rijeka! 🏫  
-
-#### ⚡ Fun fact:  
-In my free time I strive to expand my IT knowledge, enjoy going to the gym, watching and debating all things Formula 1 and hanging out with friends!
 
 ---
 
@@ -18,13 +13,16 @@ I prefer programming in Python and the frontend as well as designing and styling
   <li>Programming in Python & C++,</li>  
   <li>Frontend & backend programming (HTML, CSS, JavaScript & Django),</li>   
   <li> Xamarin basics, </li>  
-  <li>SQL basics,</li>    
+  <li>SQL basics,</li>
+  <li>Firebase,</li>
   <li>Unity,</li>    
   <li>Wordpress,</li>    
   <li>Blender, Figma, Adobe Photoshop & Adobe Illustrator basics,</li>    
   <li>Microsoft Office,</li>    
   <li>OS: Windows, Linux (Ubuntu) & MacOS.</li>   
  </ul>
+ 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMatejcic&layout=compact&theme=github_dark&border_color=21262D&title_color=FFFFFF)](https://github.com/IvanMatejcic)
  
 ### In progress... 🔜
 - [ ] R,  
@@ -34,4 +32,9 @@ I prefer programming in Python and the frontend as well as designing and styling
 
 ---
 
-👀 [Check out](https://ivanmatejcic.netlify.app/) my portfolio & CV!
+## 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/ivanmatejcic_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ivan Matejčić | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/ivanmatejcic_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ivan Matejčić | Instagram" width="21px"/></a>  
+
+👀 Also, [check out](https://ivanmatejcic.netlify.app/) my portfolio & CV!
