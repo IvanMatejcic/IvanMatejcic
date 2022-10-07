@@ -9,8 +9,6 @@ I am a 22 year old student currently studying IT at the University of Rijeka! �
 <a href="https://instagram.com/ivanmatejcic_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ivan Matejčić | Instagram" width="21px"/></a>
 <br>
 
----
-
 ## IT Knowlegde and interests 💻
 When it comes to IT, I am knowledgeable in both frontend and backend programming.  
 I prefer programming in Python and the frontend as well as designing and styling UX interfaces.
