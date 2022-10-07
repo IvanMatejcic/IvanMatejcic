@@ -23,7 +23,7 @@ I prefer programming in Python and the frontend as well as designing and styling
   <li>Wordpress,</li>    
   <li>Blender, Figma, Adobe Photoshop & Adobe Illustrator basics,</li>    
   <li>Microsoft Office,</li>    
-  <li>OS: Windows, Linux (Ubuntu) & MacOS.</li>   
+  <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
  </ul>
  
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMatejcic&layout=compact&theme=github_dark&border_color=21262D&title_color=FFFFFF)](https://github.com/IvanMatejcic)
