@@ -18,15 +18,14 @@ I prefer programming in Python and the frontend as well as designing and styling
 <ul>
   <li>Programming in Python & C++,</li>  
   <li>Frontend & backend programming (HTML, CSS, JavaScript & Django),</li>   
-  <li> Xamarin basics, </li>  
-  <li>SQL basics,</li>
+  <li>Xamarin & SQL basics,</li>
   <li>Firebase,</li>
-  <li>Unity,</li>    
-  <li>Wordpress,</li>    
-  <li>Blender, Figma, Adobe Photoshop & Adobe Illustrator basics,</li>    
-  <li>Microsoft Office,</li>    
+  <li>Wordpress,</li>  
+  <li>Unity,</li> 
   <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
  </ul>
+ 
+ > Other: Git, Blender, Figma, Microsoft Office.
  
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMatejcic&layout=compact&theme=github_dark&border_color=21262D&title_color=FFFFFF)](https://github.com/IvanMatejcic)
  
