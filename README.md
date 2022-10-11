@@ -30,6 +30,6 @@ I prefer programming in Python and the frontend as well as designing and styling
  
 ### In progress... 🔜
 - [ ] R,  
-- [ ] Tailwind CSS,  
-- [ ] Flutter,  
+- [ ] AngularJS,  
+- [ ] .NET,  
 - [ ] Swift.  
