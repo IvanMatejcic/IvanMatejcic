@@ -3,7 +3,7 @@
 My name is Ivan.  
 I am a 22 year old student currently studying computer science at the University of Rijeka! 🏫  
 
-[Check out](https://ivanmatejcic.netlify.app/) my portfolio & CV! 👀
+[Check out](https://ivan-matejcic.netlify.app/) my portfolio & CV! 👀
 
 <a href="https://www.linkedin.com/in/ivan-matej%C4%8Di%C4%87-066b1175/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ivan Matejčić | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/ivanmatejcic_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ivan Matejčić | Instagram" width="21px"/></a>
