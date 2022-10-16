@@ -31,5 +31,4 @@ I prefer programming in Python and the frontend as well as designing and styling
 ### In progress... 🔜
 - [ ] Angular,
 - [ ] .NET,  
-- [ ] R,  
-- [ ] Swift.  
+- [ ] R.
