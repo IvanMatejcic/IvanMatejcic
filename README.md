@@ -26,8 +26,6 @@ I prefer programming in Python and the frontend as well as designing and styling
  
  > Other: Git, Wordpress, Blender, Figma, Microsoft Office & Adobe Photoshop, Adobe Illustrator basics.
  
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMatejcic&layout=compact&theme=github_dark&border_color=21262D&title_color=FFFFFF)](https://github.com/IvanMatejcic)
- 
 ### In progress... 🔜
 - [ ] Angular,
 - [ ] .NET,  
