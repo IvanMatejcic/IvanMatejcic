@@ -10,17 +10,17 @@ I am a 22 year old student currently studying computer science at the University
 <br>
 
 ## IT knowlegde & interests 💻
-When it comes to IT, I am knowledgeable in both frontend and backend programming.  
-I prefer programming in Python and the frontend as well as designing and styling UX interfaces.  
+When it comes to IT I am knowledgeable in both frontend and backend programming, as well as designing and styling UX interfaces.  
 
 🔨 I am currently working on expanding my Angular and .NET CRUD knowledge!
 ### My skills include:
 <ul>
   <li>Programming in Python & C++,</li>  
   <li>Frontend & backend programming (HTML, CSS, JavaScript & Django),</li>   
-  <li>Xamarin & SQL basics,</li>
+  <li>SQL Server,</li>
   <li>Firebase,</li>
   <li>Unity,</li>  
+  <li>Xamarin basics,</li>
   <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
  </ul>
  
