@@ -13,7 +13,7 @@ I am a 22 year old student currently studying computer science at the University
 When it comes to IT, I am knowledgeable in both frontend and backend programming.  
 I prefer programming in Python and the frontend as well as designing and styling UX interfaces.  
 
-🔨 I am currently working on expanding my frontend design knowlegde!
+🔨 I am currently working on expanding my Angular and .NET CRUD knowledge!
 ### My skills include:
 <ul>
   <li>Programming in Python & C++,</li>  
