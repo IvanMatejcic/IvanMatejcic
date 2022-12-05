@@ -14,7 +14,7 @@ When it comes to IT, I am knowledgeable in both frontend and backend programming
 I prefer programming in Python and the frontend as well as designing and styling UX interfaces.  
 
 🔨 I am currently working on expanding my frontend design knowlegde!
-### My skills include: 🤓
+### My skills include:
 <ul>
   <li>Programming in Python & C++,</li>  
   <li>Frontend & backend programming (HTML, CSS, JavaScript & Django),</li>   
