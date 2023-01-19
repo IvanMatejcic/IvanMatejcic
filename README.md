@@ -25,8 +25,3 @@ When it comes to IT I am knowledgeable in both frontend and backend programming,
  </ul>
  
  > Other: Git, Wordpress, Blender, Figma, Microsoft Office & Adobe Photoshop, Adobe Illustrator basics.
- 
-### In progress... 🔜 
-- [ ] R,
-- [ ] Swift,
-- [ ] Flutter.
