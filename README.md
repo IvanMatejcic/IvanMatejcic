@@ -15,13 +15,10 @@ When it comes to IT I am knowledgeable in both frontend and backend programming,
 🔨 I am currently working on expanding my Angular and .NET CRUD knowledge and really enjoying the experience!
 ### My skills include:
 <ul>
-  <li>Raw programming in Python, C++ & JavaScript,</li>  
-  <li>Frontend & backend programming (Angular, .NET Core 6.x, Django, HTML & CSS),</li>   
-  <li>SQL Server,</li>
-  <li>Firebase,</li>
-  <li>Unity,</li>  
-  <li>Xamarin basics,</li>
-  <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
+  <li>Frontend & backend programming (Angular, .NET Core, Django),</li>  
+  <li>Programming in Python & C++,</li>   
+  <li>SQL Server, Firebase, Xamarin & Unity basics,</li>
+  <li>OS: Windows, Linux (Ubuntu) & MacOS</li>   
  </ul>
  
- > Other: Git, Wordpress, Blender, Figma, Microsoft Office & Adobe Photoshop, Adobe Illustrator basics.
+ > Other: Git, Blender, Figma, Microsoft Office & Adobe Photoshop, Adobe Illustrator basics.
