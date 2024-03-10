@@ -16,9 +16,10 @@ When it comes to IT, I'm knowledgeable in both frontend and backend programming 
 ### My skills include:
 <ul>
   <li>Frontend & backend programming (Angular, .NET Core, Django),</li>  
-  <li>Programming in Python & C++,</li>   
-  <li>SQL Server, Firebase, Xamarin & Unity basics,</li>
-  <li>OS: Windows, Linux (Ubuntu) & MacOS.</li>   
+  <li>Programming in TypeScript, Python & C++,</li>  
+  <li>Database (MySQL, Postgres, Firebase),</li>
+  <li>Git, Azure DevOps,</li>
+  <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
  </ul>
  
- > Other: Git, Blender, Figma, Microsoft Office.
+ > Other: Unity, Blender, Figma, Microsoft Office.
