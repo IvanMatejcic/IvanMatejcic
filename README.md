@@ -22,4 +22,4 @@ When it comes to IT, I'm knowledgeable in both frontend and backend programming 
   <li>OS: Windows, Linux (Ubuntu) & Mac OS.</li>   
  </ul>
  
- > Other: Unity, Blender, Figma, Microsoft Office.
+ > Other: Unity, Blender, Figma.
